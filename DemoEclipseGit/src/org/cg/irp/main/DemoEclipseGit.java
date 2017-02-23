@@ -10,6 +10,6 @@ public class DemoEclipseGit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Git demo from Eclipse");
+		System.out.println("Git demo from Eclipse with new FeatureA");
 	}
 }
